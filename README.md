@@ -1,9 +1,4 @@
-# NativeBase Expo Template
+# DSN Converter App
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+Mutiplatform DSN Converter app for the DoD. 
 
-## Usage
-
-```sh
-expo init my-app --template @native-base/expo-template
-```
